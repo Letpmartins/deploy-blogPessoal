@@ -1,5 +1,10 @@
 # BlogPessoal
 
+## Produção
+O resultado deste projeto pode ser visto em
+https://blogleticia.netlify.app/#/entrar
+----------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
 ## Development server
